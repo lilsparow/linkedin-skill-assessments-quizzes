@@ -19,10 +19,10 @@ D. longitude, latitude
     C. Click New Visual on the Data Tools tab.
     D. Select a field that contains values.
 
-- [ ] A, B, or D
+- [x] A, B, or D
 - [ ] B or D
 - [ ] B orC
-- [x] A or B
+- [] A or B
 
 #### Q3. What daily sales number does this DAX measure formula calculate?
 
